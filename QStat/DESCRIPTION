@@ -1,0 +1,14 @@
+Package: QStat
+Type: Package
+Title: GIAT Solutions
+Version: 0.0.1
+Date: 2019-12-17
+Author: Paolo Nadalutti [aut, cre]
+Maintainer: Paolo Nadalutti <paolo.nadalutti@gmail.com>
+Depends: R (>= 3.1.0), tm
+Suggests: MASS
+Description: More about than you think!
+License: Open
+Encoding: UTF-8
+LazyData: TRUE
+RoxygenNote: 7.0.2

@@ -1,0 +1,8 @@
+import(tm)
+export(IntDist)
+export(SampledIntDist)
+export(MergeAllTexts)
+export(MergeTexts)
+export(ExploreCorpus)
+export(ExploreTexts)
+export(FromTalTacToTxt)
